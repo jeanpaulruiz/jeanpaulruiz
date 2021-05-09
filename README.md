@@ -1,7 +1,7 @@
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://i.giphy.com/media/hWGI9TQGsKsdBcxRi5/giphy-downsized-large.gif" />
+      <img src="https://i.giphy.com/Wn74RUT0vjnoU98Hnt.gif" />
     </td>
     <td>
       <p>Thanks for visiting my Github profile!</p>
